@@ -2,6 +2,8 @@
 
 Variant 11 (№27)
 
+Link to site -> https://digitaleinc.github.io/web-lab-1/
+
 Site contains 5 pages:
 
 Home (index.html)
